@@ -18,3 +18,10 @@ The benefits to write down a README.md file are
 <a href="https://www.youtube.com/watch?v=E6NO0rgFub4" target="_blank">
 <img src="">
 </a>
+
+The easiest way to see how this works is to watch the videos, but here's the short version:
+
+1. clone this project
+2. Set up a local ... - https://www.youtube.com/watch?v=E6NO0rgFub4
+3. Install hel - `brew install helm`
+4. Setup your keys - see the video here - 
