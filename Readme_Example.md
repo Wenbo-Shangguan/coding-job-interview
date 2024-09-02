@@ -30,3 +30,7 @@ The easiest way to see how this works is to watch the videos, but here's the sho
 function () {
 ----} 
 ```
+
+- Variables are temporary
+- localStorage
+- ...
